@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Rayfalling 👋
 
 <!--
 **wanghaiwei/wanghaiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div>
-    <div style="float:left">
-        ![Rayfalling's github stats](https://github-readme-stats.vercel.app/api?username=wanghaiwei&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
-    </div>
-    <div style="float:right">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghaiwei)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wanghaiwei&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghaiwei)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
