@@ -1,7 +1,7 @@
 ### Hi there, I'm Rayfalling 👋
 
 <!--
-**wanghaiwei/wanghaiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rayfalling/rayfalling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wanghaiwei&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayfalling&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
 </a>    
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghaiwei&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfalling&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
